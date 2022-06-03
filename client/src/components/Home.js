@@ -29,6 +29,9 @@ function Home({posts}) {
     else if(e.target.value ==='Like New'){
         let filteredPost=posts.filter(post=> post.condition ==="Like New")
         setFilterList(filteredPost)
+    }else if(e.target.value ==='Excellent'){
+        let filteredPost=posts.filter(post=> post.condition ==="Excellent")
+        setFilterList(filteredPost)
     }
     else if(e.target.value ==='Good'){
         let filteredPost=posts.filter(post=> post.condition ==="Good")

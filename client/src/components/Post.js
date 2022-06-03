@@ -13,7 +13,9 @@ function Post({post}) {
         </div>
         {/* <img src={post.image_url[0]}/> */}
         <div className='post-card-info'>
+            <div className='post-card-info-1'>
             <p>{post.title}  <span>${post.price}  </span>  ({post.location})</p>
+            </div>
             <div className='post-card-created-at'>{post.created_at}</div>
         </div>
        
