@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29e89f82.css",
+    "main.js": "/static/js/main.c9a7397a.js",
+    "static/media/goldenshovel.png": "/static/media/goldenshovel.20c259c11481a8e7ee9a.png",
+    "index.html": "/index.html",
+    "main.29e89f82.css.map": "/static/css/main.29e89f82.css.map",
+    "main.c9a7397a.js.map": "/static/js/main.c9a7397a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e89f82.css",
+    "static/js/main.c9a7397a.js"
+  ]
+}
